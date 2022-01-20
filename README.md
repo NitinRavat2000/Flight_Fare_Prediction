@@ -4,19 +4,14 @@ This repository consists of files required for end to end implementation and dep
 
 ## Table of Contents
 
-* [App Link](#app-link)
+* Screen recording of application
 
 * [About the App](#About-the-App)
 
 * [Technologies Used](#Technologies-Used)
 
-* [Bug / Feature Request](#bug--feature-request)
 
 
-
-## App Link
-If you want to view the deployed model, click on the following link:
-https://flightfareprediction121.herokuapp.com/
 
 A glimpse of the web app:
 
@@ -60,8 +55,3 @@ Price: The price of the ticket
 
 ![download](https://camo.githubusercontent.com/a36ba2ddbad5deb001d427c5875162c4622af3cb0fa0f093f3504a4d4feaf274/68747470733a2f2f6e756d626572312e636f2e7a612f77702d636f6e74656e742f75706c6f6164732f323031372f31302f67756e69636f726e5f6c6f676f2d3330307838352e706e67)
 
-
-
-
-## Bug / Feature Request
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue here by including your search query and the expected result
